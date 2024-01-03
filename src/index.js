@@ -1,1 +1,2 @@
-console.log("GitHub")
+let nome = "Daniel"
+console.log(nome);
